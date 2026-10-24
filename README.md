@@ -1,187 +1,101 @@
-<h1 align="center"><b>Hi , I'm Jose Morales </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<!--  -->A
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=900&height=100&lines=A+programmer+when+born+does+not+cry,+he+says:</Hello+world>..&hearts;++;Self-taught+Full-Stack+Developer,;Software+Engineer+Student,;Technological+University+of+Peru,;Active+Learner/Researcher,;I+love+programming..<3"></a>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
+  <img src="./assets/hero-light.svg" width="100%" alt="Jose Morales Vega — Full Stack / Cloud Architect / AI-First Engineer">
+</picture>
 
-
-<br>
-
-
-
-	
-## <img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px> **About me**
-
+<div align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=900&color=2F81F7&center=true&vCenter=true&width=720&height=40&lines=Designing+cloud-native+architectures+on+AWS+%26+GCP;Shipping+full-stack+products+from+UI+to+infra;Building+AI-first+apps+with+LLMs%2C+RAG+%26+agents;console.log(%22Hello+world%22)+%E2%80%94+since+day+one+%E2%99%A5" alt="typing"></a>
+</div>
 
 <br>
 
-- A passionate Self-taught Full-stack developer
-- Playing Warzone at spare time
-- Currently learning about AI and Kubernetes by myself
-- Personal website [link](https://myportfolio-sigma-mocha.vercel.app/)
-- I’m currently open for a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/h-about-dark.svg">
+  <img src="./assets/h-about-light.svg" width="100%" alt="About me">
+</picture>
 
-<br><br>
+I'm a **self-taught engineer** from Lima, Perú 🇵🇪 who likes owning the whole picture — from the pixel on the screen to the pod in the cluster.
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-<br>
-
-<p align="center">
-
-- **Languages**:
-    
-    ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-    ![PHP](https://img.shields.io/badge/PHP%20-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-    ![Golang](https://img.shields.io/badge/Golang%20-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-    ![Java](https://img.shields.io/badge/Java%20-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-    [![GraphQL](https://img.shields.io/badge/GraphQL-%23E10098.svg?style=for-the-badge&logo=graphql&logoColor=white)](https://graphql.org/)
-    ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
-
-<br> 
-    
-- **Front-End Development**:
-
-   ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-   ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-   ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
-   ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
-   ![Vue.js](https://img.shields.io/badge/Vue.js%20-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white)
-   ![Angular](https://img.shields.io/badge/Angular%20-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-   ![Bootstrap](https://img.shields.io/badge/Bootstrap%20-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-   ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS%20-%2328B6DB.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+- ☁️ &nbsp;I design **cloud-native architectures** on AWS and Google Cloud: secure, observable and built to scale.
+- 🧩 &nbsp;I ship **full-stack products** end to end — UI, APIs, services, data and deployment.
+- 🤖 &nbsp;I build **AI-first**: LLMs, RAG and agents as core features, not add-ons.
+- ⚡ &nbsp;I work with AI-assisted workflows (Claude Code) to move fast without cutting corners.
+- 🌱 &nbsp;Currently going deeper into **Kubernetes at scale**, **AI agents** and **MLOps**.
+- 🏢 &nbsp;Building at **Vegas Company** · 🎮 Warzone after hours.
+- 🚀 &nbsp;**Open to new opportunities** — portfolio at [moraless.me](https://www.moraless.me).
 
 <br>
 
-- **Storage**:
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/h-architecture-dark.svg">
+  <img src="./assets/h-architecture-light.svg" width="100%" alt="How I build">
+</picture>
 
-    ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-    ![MySQL](https://img.shields.io/badge/MySQL%20-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-    ![SQL Server](https://img.shields.io/badge/SQL%20Server%20-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-    [![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/)
-    [![Amazon S3](https://img.shields.io/badge/Amazon%20S3-%23FF9900.svg?style=for-the-badge&logo=amazon-s3&logoColor=white)](https://aws.amazon.com/s3/)
-    
-<br>
-
-- **Cloud**:
-
-    ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-    ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-    ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/architecture-dark.svg">
+  <img src="./assets/architecture-light.svg" width="100%" alt="Users → Frontend → APIs → Services → Data on AWS and Google Cloud, with an AI layer connected to every tier">
+</picture>
 
 <br>
 
-- **Softwares and Tools**:
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/h-stack-dark.svg">
+  <img src="./assets/h-stack-light.svg" width="100%" alt="Tech stack">
+</picture>
 
-    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-    ![Claude Code](https://img.shields.io/badge/Claude%20Code-%23D97757.svg?style=for-the-badge&logo=anthropic&logoColor=white)
-    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-    ![Docker](https://img.shields.io/badge/Docker%20-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
-	![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
-    
-<br>
-
-- **Extras**:
-
-    ![Excel](https://img.shields.io/badge/Excel-%23217346.svg?style=for-the-badge&logoColor=white)
-    ![Power BI](https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=for-the-badge&logoColor=white)
-    ![Looker Studio](https://img.shields.io/badge/Looker%20Studio-%234271BA.svg?style=for-the-badge&logoColor=white)
-  
-</p>
-
-<br>
-<br>
-
------
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/sphere-dark.svg">
+  <img src="./assets/sphere-light.svg" width="100%" alt="Rotating sphere of technologies: JavaScript, TypeScript, Python, Go, Java, C++, PHP, Node.js, GraphQL, React, Next.js, Vue, Angular, Tailwind, PostgreSQL, MySQL, Redis, AWS, Google Cloud, Docker, Kubernetes, Linux, Git, GitHub Actions, Claude, Looker, Power BI">
+</picture>
 
 <br>
 
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/h-stats-dark.svg">
+  <img src="./assets/h-stats-light.svg" width="100%" alt="GitHub activity">
+</picture>
 
 <div align="center">
 
-<!-- <a href="https://github.com/jmorales01/">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jmorales01&theme=tokyonight" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jmorales01&layout=compact&theme=dracula&hide_border=true" width="375"/>
-</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=jmorales01&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jmorales01&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent&title_color=0969DA&icon_color=0969DA&text_color=656D76" alt="GitHub stats">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jmorales01&layout=compact&langs_count=8&hide_border=true&theme=transparent&title_color=58A6FF&text_color=8B949E">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmorales01&layout=compact&langs_count=8&hide_border=true&theme=transparent&title_color=0969DA&text_color=656D76" alt="Top languages">
+</picture>
 
-<br><br> -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=jmorales01&theme=transparent&hide_border=true&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E">
+  <img width="100%" src="https://streak-stats.demolab.com/?user=jmorales01&theme=transparent&hide_border=true&stroke=D0D7DE&ring=0969DA&fire=0969DA&currStreakNum=1F2328&sideNums=1F2328&currStreakLabel=0969DA&sideLabels=656D76&dates=656D76" alt="GitHub streak">
+</picture>
 
-<img src="https://streak-stats.demolab.com/?user=jmorales01&theme=tokyonight&hide_border=true&stroke=7A7ADB&ring=7A7ADB&fire=DD2727&currStreakLabel=7A7ADB&background=000000" width="450"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jmorales01/jmorales01/output/snake-dark.svg">
+  <img width="100%" src="https://raw.githubusercontent.com/jmorales01/jmorales01/output/snake.svg" alt="Snake eating my contributions">
+</picture>
 
+</div>
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/h-connect-dark.svg">
+  <img src="./assets/h-connect-light.svg" width="100%" alt="Let's connect">
+</picture>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/josemoralesv24" title="LinkedIn"><img src="./assets/social/linkedin.svg" width="40" alt="LinkedIn"></a>&nbsp;&nbsp;
+  <a href="https://twitter.com/JoseLuisMV18" title="X / Twitter"><img src="./assets/social/x.svg" width="40" alt="X"></a>&nbsp;&nbsp;
+  <a href="mailto:joseluismoralesvega24@gmail.com" title="Email"><img src="./assets/social/gmail.svg" width="40" alt="Email"></a>&nbsp;&nbsp;
+  <a href="https://wa.me/51982310245" title="WhatsApp"><img src="./assets/social/whatsapp.svg" width="40" alt="WhatsApp"></a>&nbsp;&nbsp;
+  <a href="https://www.moraless.me" title="Website"><img src="./assets/social/globe.svg" width="40" alt="Website"></a>
 </div>
 
 <br>
-<br>
-<br>
 
------
-
-<br>
-<br>
-
-## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
-<br>
-<div align='left'>
-
-<ul>
-
-<li>
-<a href="https://linkedin.com/in/josemoralesv24" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  jose L. Morales-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
-</a>
-</li>
-
-<br>
-
-<li>
-<a href="https://twitter.com/JoseLuisMV18" target="_blank">
-<img src="https://img.shields.io/badge/twitter:  @JoseLuisMV18-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
-</a>
-</li>
-
-<br>
-
-<li>
-<a href="mailto:joseluismoralesvega24@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  joseluismoralesvega24@gmail.com-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
-</a>
-</li>
-
-<br>
-
-<li>
-<a href="https://wa.me/51982310245" target="_blank">
-<img src="https://img.shields.io/badge/whatsapp:  %2B51%20982%20310%20245-%2325D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white" alt=whatsapp style="margin-bottom: 5px;"/>
-</a>
-</li>
-
-</ul>
-</div>
-
-<br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
-<br>
-<br>
-
-<div align='center'>
-
-## <b>Blessings for you...✨</b>
-
-</div>
-<br>
-<br>
-<br>
-<br>
-
----
-
-<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/footer-dark.svg">
+  <img src="./assets/footer-light.svg" width="100%" alt="Blessings for you">
+</picture>
