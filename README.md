@@ -22,7 +22,7 @@ I'm a **self-taught engineer** from Lima, Perú 🇵🇪 who likes owning the wh
 - ⚡ &nbsp;I work with AI-assisted workflows (Claude Code) to move fast without cutting corners.
 - 🌱 &nbsp;Currently going deeper into **Kubernetes at scale**, **AI agents** and **MLOps**.
 - 🏢 &nbsp;Building at **Vegas Company** · 🎮 Warzone after hours.
-- 🚀 &nbsp;**Open to new opportunities** — portfolio at [morales.me](https://moraless.vercel.app).
+- 🚀 &nbsp;**Open to new opportunities** — portfolio at [jlmoralesv.dev](https://moraless.vercel.app).
 
 <br>
 
