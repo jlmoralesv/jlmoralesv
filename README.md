@@ -86,11 +86,11 @@ I'm a **self-taught engineer** from Lima, Perú 🇵🇪 who likes owning the wh
 </picture>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/josemoralesv24" title="LinkedIn"><img src="./assets/social/linkedin.svg" width="40" alt="LinkedIn"></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/jlmoralesv" title="LinkedIn"><img src="./assets/social/linkedin.svg" width="40" alt="LinkedIn"></a>&nbsp;&nbsp;
   <a href="https://twitter.com/JoseLuisMV18" title="X / Twitter"><img src="./assets/social/x.svg" width="40" alt="X"></a>&nbsp;&nbsp;
   <a href="mailto:joseluismoralesvega24@gmail.com" title="Email"><img src="./assets/social/gmail.svg" width="40" alt="Email"></a>&nbsp;&nbsp;
   <a href="https://wa.me/51982310245" title="WhatsApp"><img src="./assets/social/whatsapp.svg" width="40" alt="WhatsApp"></a>&nbsp;&nbsp;
-  <a href="https://www.moraless.me" title="Website"><img src="./assets/social/globe.svg" width="40" alt="Website"></a>
+  <a href="https://moraless.vercel.app" title="Website"><img src="./assets/social/globe.svg" width="40" alt="Website"></a>
 </div>
 
 <br>
