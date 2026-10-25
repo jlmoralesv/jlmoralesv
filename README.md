@@ -22,7 +22,7 @@ I'm a **self-taught engineer** from Lima, Perú 🇵🇪 who likes owning the wh
 - ⚡ &nbsp;I work with AI-assisted workflows (Claude Code) to move fast without cutting corners.
 - 🌱 &nbsp;Currently going deeper into **Kubernetes at scale**, **AI agents** and **MLOps**.
 - 🏢 &nbsp;Building at **Vegas Company** · 🎮 Warzone after hours.
-- 🚀 &nbsp;**Open to new opportunities** — portfolio at [moraless.me](https://moraless.vercel.app).
+- 🚀 &nbsp;**Open to new opportunities** — portfolio at [morales.me](https://moraless.vercel.app).
 
 <br>
 
@@ -58,22 +58,22 @@ I'm a **self-taught engineer** from Lima, Perú 🇵🇪 who likes owning the wh
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=jmorales01&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jmorales01&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent&title_color=0969DA&icon_color=0969DA&text_color=656D76" alt="GitHub stats">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=jlmvega&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jlmvega&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent&title_color=0969DA&icon_color=0969DA&text_color=656D76" alt="GitHub stats">
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jmorales01&layout=compact&langs_count=8&hide_border=true&theme=transparent&title_color=58A6FF&text_color=8B949E">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmorales01&layout=compact&langs_count=8&hide_border=true&theme=transparent&title_color=0969DA&text_color=656D76" alt="Top languages">
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=jmorales01&theme=transparent&hide_border=true&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E">
-  <img width="100%" src="https://streak-stats.demolab.com/?user=jmorales01&theme=transparent&hide_border=true&stroke=D0D7DE&ring=0969DA&fire=0969DA&currStreakNum=1F2328&sideNums=1F2328&currStreakLabel=0969DA&sideLabels=656D76&dates=656D76" alt="GitHub streak">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jlmvega&layout=compact&langs_count=8&hide_border=true&theme=transparent&title_color=58A6FF&text_color=8B949E">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jlmvega&layout=compact&langs_count=8&hide_border=true&theme=transparent&title_color=0969DA&text_color=656D76" alt="Top languages">
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jmorales01/jmorales01/output/snake-dark.svg">
-  <img width="100%" src="https://raw.githubusercontent.com/jmorales01/jmorales01/output/snake.svg" alt="Snake eating my contributions">
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=jlmvega&theme=transparent&hide_border=true&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E">
+  <img width="100%" src="https://streak-stats.demolab.com/?user=jlmvega&theme=transparent&hide_border=true&stroke=D0D7DE&ring=0969DA&fire=0969DA&currStreakNum=1F2328&sideNums=1F2328&currStreakLabel=0969DA&sideLabels=656D76&dates=656D76" alt="GitHub streak">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jlmvega/jlmvega/output/snake-dark.svg">
+  <img width="100%" src="https://raw.githubusercontent.com/jlmvega/jlmvega/output/snake.svg" alt="Snake eating my contributions">
 </picture>
 
 </div>
